@@ -66,6 +66,7 @@
         ".editor .title .actions-container": "flex-direction: row-reverse;",
         ".editor .scrollbar .slider": "visibility: hidden",
         ".editor .scrollbar:hover .slider": "visibility: initial",
+        ".monaco-breadcrumbs": "visibility: hidden",
     },
     "window.zoomLevel": 1,
     "workbench.tree.indent": 25,
