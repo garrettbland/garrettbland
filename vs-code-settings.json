@@ -59,28 +59,13 @@
     **/
     "customizeUI.titleBar": "inline",
     "customizeUI.stylesheet": {
-        //".editor .title": "background: transparent !important; --title-border-bottom-color: transparent !important;",
-        //".editor .title": "display: none !important;",
-        ".editor .title .label-container": "visibility: hidden;",
-        //".title.breadcrumbs": "display: none !important;",
-        //".tabs-and-actions-container": "display: none !important;",
-        // Hide top-right buttons
-        // ".editor > div.content, .editor .editor-container": "background-image: linear-gradient(to bottom right, #191C3E 0%, #172124 100%); background-size: cover;",
-        // ".editor > div.content, .editor .editor-container": "background-image: url(/Users/calebporzio/Desktop/test.jpg); background-size: cover",
-        // ".monaco-editor-background": "background-color: transparent !important",
-        // ".monaco-editor .margin": "background-color: transparent ! important",
-        // ".monaco-editor": "background-color: transparent ! important",
+        ".tabs-and-actions-container": "display: none !important;",
         ".editor .title .actions-container .action-item a": "visibility: hidden;",
-        // Show top-right "settings goto icon"
         ".editor .title .actions-container .action-item a[title=\"Open Settings (UI)\"]": "visibility: initial;",
         ".editor .title .actions-container .action-item a[title=\"Open Settings (JSON)\"]": "visibility: initial;",
-        // Make it the "right-most" icon.
         ".editor .title .actions-container": "flex-direction: row-reverse;",
-        // Only show the scrollbar on hover.
         ".editor .scrollbar .slider": "visibility: hidden",
         ".editor .scrollbar:hover .slider": "visibility: initial",
-        // Change cursor color.
-        //".monaco-editor .cursor": "background: linear-gradient(to bottom, #7f00ff, #e100ff) !important; color: #292D3E !important"
     },
     "window.zoomLevel": 1,
     "workbench.tree.indent": 25,
