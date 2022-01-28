@@ -8,6 +8,7 @@ I'm an inspiring entreprenuer and love jumping into new things and learning. I'v
 
 - [Block Builder](https://blockbuilder.app/)
 - [Work Hays](https://workhays.com)
+- [Work Hays (Typescript WIP)](https://github.com/garrettbland/workhays-next)
 - [Next Kit](https://nextkit.netlify.app/)
 - [Eleventy (11ty) Kit](https://eleventykit.netlify.app/)
 - Bunny Runner (Archived Swift iOS game)
