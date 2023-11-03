@@ -1,14 +1,23 @@
 ### Hello! 👋
 
-I'm Garrett Bland, a Full Stack Web Developer with Eagle Communications in Hays, Kansas. I manage our local news sites, as well as create client websites. I develop heavily in Javascript & Node, with an emphasis on React.
+I'm Garrett Bland, a Lead Principal Javascipt Engineer with [Ally Bank](https://www.ally.com/). I develop heavily in React & Typescript, as well as lead a UI team that delivers awesome products across multiple lines of business in the financial industry. We focus primarily on web and mobile projects using React, Typescript, Node, and React Native.
 
-I'm an inspiring entreprenuer and love jumping into new things and learning. I've created a handful of projects and am currently working on a few new ones, and write about development from time to time.
+I'm an inspiring entreprenuer and love jumping into new things and learning.
+I've created a handful of projects using various technologies, and always try
+to do uncomfortable things to help grow as a developer and a human.
+
+Lately I've been getting my hands messy with the new OpenAI technology, 
+decentralized authentication with web3, and have been doing a lot more
+Swift. (The Swift bit is for getting back into mobile development 👀)
+
+### Talks
+
+- (coming soon!) Understanding Javascript's Event Loop and Call Stack - ThunderPlains 2023 | Oklahoma City, OK
 
 ### Projects
 
-- [Block Builder](https://blockbuilder.app/)
+- [Block Builder]([https://blockbuilder.app/](http://localhost:8080/projects/block-builder))
 - [Work Hays](https://workhays.com)
-- [Work Hays (Typescript WIP)](https://github.com/garrettbland/workhays-next)
 - [Next Kit](https://nextkit.netlify.app/)
 - [Eleventy (11ty) Kit](https://eleventykit.netlify.app/)
 - Bunny Runner (Archived Swift iOS game)
