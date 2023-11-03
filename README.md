@@ -10,4 +10,4 @@ Lately I've been getting my hands messy with the new OpenAI technology,
 decentralized authentication with web3, and have been doing a lot more
 Swift. (The Swift bit is for getting back into mobile development 👀)
 
-[Learn more about me, my projects, talks, and packages at garrettbland.com](https://www.garrettbland.com/)
+Learn more about me, my projects, talks, and packages at [garrettbland.com](https://www.garrettbland.com/)
